@@ -11,7 +11,7 @@ The main part of the program calculates the y-values for each expression, makes 
 In summary, this program makes it easy to see math expressions visually. By breaking down the math into parts and using Matplotlib, it's simple to understand and use. Users can pick which expressions to see or see them all together, and the results are saved for further study and basis.
 
 
-# heres some of screenshoots
+# Some Screenshoots
 
 ![Screenshot (187)](https://github.com/arclatero/DataStructureAndAlgorithm/assets/144699591/8fe919e2-093d-4261-98eb-3b3082369211)
 ![Screenshot (188)](https://github.com/arclatero/DataStructureAndAlgorithm/assets/144699591/d21262cd-d6e1-447d-9eff-31ec02725c43)
